@@ -26,4 +26,4 @@ jobs:
         docker push richiiestowie/udagram-api-feed
         docker push richiiestowie/udagram-api-user
         docker push richiiestowie/udagram-frontend
-        docker push richiestowie/udagram-reverseproxy
+        docker push richiiestowie/udagram-reverseproxy
